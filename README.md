@@ -1,8 +1,8 @@
-The provided document is a project report on a Markov Chain Model for Casino Profit Maximization. The key points from the document are:
 
-### Title and Authors
-- Title: Markov Chain Model for Casino Profit Maximization
-- Authors: Shaoyi Li, Pedro Duarte Moreira, Astrid Zhao, Mofei Wang
+# Markov Chain Model for Casino Profit Maximization
+
+### Authors
+Shaoyi Li, Pedro Duarte Moreira, Astrid Zhao, Mofei Wang
 
 ### Abstract
 The report proposes a model to determine the optimal slot machine winning rate for maximizing casino profits using a Markov chain model based on the Gambler’s Ruin concept. Both analytical solutions and Monte Carlo simulations were employed to visualize and compute the optimal winning rates under various scenarios.
@@ -38,5 +38,3 @@ The report proposes a model to determine the optimal slot machine winning rate f
 
 ### Appendices
 - Detailed mathematical derivations and additional scenario analyses.
-
-This summary captures the essence and key findings of the report, focusing on the mathematical modeling and sensitivity analysis used to determine the optimal winning rates for slot machines in casinos.
